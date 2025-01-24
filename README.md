@@ -1,5 +1,7 @@
 # Molegame
 
+A simple game I made as an assignment for the Full Stack course
+
 ## Dependencies
 - Node.js
 
