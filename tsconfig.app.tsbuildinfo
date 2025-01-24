@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/supabase.ts","./src/vite-env.d.ts","./src/assets/custom.d.ts","./src/components/mainmenu.tsx","./src/components/mole.tsx","./src/components/roundcountdowntimer.tsx","./src/components/scoreboard.tsx","./src/components/common.tsx","./src/hooks/use_resize.ts","./src/pages/game.tsx","./src/tools/common.ts"],"version":"5.7.3"}
